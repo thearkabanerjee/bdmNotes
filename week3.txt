@@ -1,0 +1,616 @@
+WEEK 3 — PRICING STRATEGIES AND FINANCIAL ANALYSIS
+
+W3L1 — Pricing as a Strategic Variable
+
+1. Why is pricing an important strategic variable?
+
+Pricing helps a firm fulfil its strategic objectives.
+
+The price of a product depends on:
+
+The type of market, such as monopoly or competitive market.
+
+The product category.
+
+The firm's long-term vision for the product.
+
+Whether the firm wants to maximise sales, maximise profits or capture market share.
+
+In competitive markets such as FMCG, a firm may not be able to change prices significantly.
+
+2. What are the objectives of pricing strategies?
+
+Products generally have a life cycle.
+
+A newly launched product may initially experience slow sales. It then enters a growth or diffusion stage, faces competition, reaches maturity and eventually enters a declining phase.
+
+Different pricing strategies may be required at different stages.
+
+The notes list these pricing objectives:
+
+Long-run profits.
+
+Short-run profits or hit-and-run profits.
+
+Increasing sales volume and market share.
+
+Company growth through higher profits.
+
+Matching competitors' prices.
+
+Creating interest and excitement about a product.
+
+Discouraging competitors from cutting prices.
+
+Social, ethical and ideological objectives.
+
+Discouraging new entrants.
+
+3. What factors affect pricing?
+
+The notes identify these factors:
+
+Consumer goals: The primary goals consumers have regarding a product affect its pricing.
+
+Unique Selling Point (USP): Whether a product has a USP compared with competing products affects pricing.
+
+Bundling: A firm may bundle low-value and high-value products or services.
+
+Example: Providing sedan-like features in a hatchback car.
+
+Geographical segmentation: Different cities, districts and income groups may have different prices.
+
+Prices may vary across regions within the same country.
+
+W3L2 — Types of Pricing Strategies
+
+The notes list the following pricing strategies:
+
+Market skimming.
+
+Value pricing.
+
+Loss leader pricing.
+
+Psychological pricing.
+
+Going rate pricing.
+
+Tender pricing.
+
+Price discrimination.
+
+Penetration pricing.
+
+Cost-plus pricing.
+
+Contribution pricing.
+
+Target pricing.
+
+Marginal cost pricing.
+
+Absorption cost pricing.
+
+Destroyer pricing.
+
+1. What is Market Skimming?
+
+Market skimming is a pricing strategy that depends on having information about customer demand, including customers' willingness and ability to buy.
+
+Characteristics:
+
+Low-volume, high-price products.
+
+Often used for new or limited-edition products.
+
+Suitable for the short term or until market competition is established.
+
+Examples from the notes:
+
+Limited-edition bikes.
+
+PlayStation.
+
+Newly launched iPhones.
+
+2. What is Value Pricing?
+
+Value pricing is based on surveys and customer feedback about a firm's products.
+
+The firm categorises products according to customer perception, such as:
+
+Status products.
+
+Premium products.
+
+Exclusive products.
+
+The pricing depends heavily on insights into how consumers perceive the products.
+
+3. What is Loss Leader Pricing?
+
+Loss leader pricing involves selling goods or services at reduced prices to encourage large-volume sales for a certain period.
+
+Examples:
+
+Festival sales.
+
+Supermarket special sales.
+
+A free mobile phone offered with a phone contract, as in the example in the notes.
+
+4. What is Psychological Pricing?
+
+Psychological pricing means setting prices based on how consumers perceive them.
+
+Example:
+
+Selling a product at $9.99 instead of $10.99.
+
+5. What is Going Rate Pricing?
+
+Going rate pricing involves continuously monitoring competitors' prices.
+
+A firm may:
+
+Match competitors' prices.
+
+Reduce its price below competitors' prices.
+
+Increase its price when appropriate based on competitors' prices.
+
+6. What is Tender Pricing?
+
+Tender pricing is described in the notes as a low-cost but high-value delivery model.
+
+It is commonly used for government tenders.
+
+Important characteristics:
+
+Many contracts are awarded through tenders.
+
+Reputation and past track record matter.
+
+Entry barriers may be high.
+
+Tender requirements may include a minimum annual turnover.
+
+Example from the notes: A tender may require annual turnover of at least ₹10 crore.
+
+7. What is Price Discrimination?
+
+Price discrimination means selling the same product or service to different people at different prices.
+
+Example: Airline tickets.
+
+The notes explain that this strategy is possible where resale of the product is not possible.
+
+8. What is Peak-Load Pricing?
+
+Peak-load pricing is a variation of price discrimination.
+
+Prices differ depending on the time of use.
+
+Example: Metro prices during peak hours compared with non-peak hours.
+
+9. What is Cross-Price Subsidisation?
+
+Cross-price subsidisation occurs when a firm charges different customers different prices based on their ability to pay.
+
+The notes give this example:
+
+Customer 1 cannot afford a higher price, so the firm subsidises the service.
+
+Customer 2 can afford a higher price, so the firm charges more to recover the subsidy provided to Customer 1.
+
+Examples mentioned include electricity and different classes of train travel.
+
+10. What is Penetration Pricing?
+
+Penetration pricing is a strategy in which a newly launched product enters the market at a very low price.
+
+The objective is to achieve high-volume sales and penetrate the market.
+
+Example from the notes: Jio Fiber.
+
+Characteristics:
+
+Initially very low prices.
+
+Focus on high sales volume.
+
+Suitable for newly launched products.
+
+Commonly used as a long-term strategy.
+
+11. What is Cost-Plus Pricing?
+
+Cost-plus pricing is a pricing model used to maximise the rate of return for companies.
+
+Formula:
+
+[
+CP+MU=SP
+]
+
+Where:
+
+CP = Cost Price.
+
+MU = Mark-up.
+
+SP = Selling Price.
+
+The notes also define:
+
+[
+CP=FC+VC
+]
+
+Where:
+
+FC = Fixed Cost.
+
+VC = Variable Cost.
+
+12. What is Contribution Pricing?
+
+Contribution is the difference between selling price and variable cost.
+
+[
+Contribution=Selling\ Price-Variable\ Cost
+]
+
+The notes express it as:
+
+[
+Contribution=CP+MU-VC
+]
+
+Since:
+
+[
+CP=FC+VC
+]
+
+Therefore:
+
+[
+Contribution=FC+MU
+]
+
+13. What is Target Pricing?
+
+Target pricing starts with the amount of profit the firm wants to achieve.
+
+The firm varies its mark-up to reach the desired profit.
+
+Formula:
+
+[
+Markup=\frac{Profit}{Cost}\times100
+]
+
+According to the notes:
+
+When demand is low, the firm reduces the mark-up.
+
+When demand is high, the firm increases the mark-up.
+
+14. What is Marginal Cost Pricing?
+
+Marginal cost is the cost of producing one additional unit or one fewer unit.
+
+Formula:
+
+[
+MC=\frac{\Delta Total\ Cost}{\Delta Output}
+]
+
+Example from the notes:
+
+[
+MC=\frac{€80}{2}=€40
+]
+
+15. What is Full Cost Pricing?
+
+Full cost pricing attempts to set a price that covers both fixed costs and variable costs.
+
+16. What is Absorption Cost Pricing?
+
+Absorption cost pricing attempts to set a price that covers variable costs and some of the fixed costs.
+
+The notes mention that this may be used in markets where sunk costs are high.
+
+17. What is Destroyer Pricing?
+
+Destroyer pricing involves undercutting prices to prevent a new entrant from entering the market or to force competitors to exit.
+
+The notes describe it as anti-competitive and illegal.
+
+W3L3 — Analysis of Firm Performance: Key Ratios
+
+1. Why do firms conduct financial analysis?
+
+Financial analysis helps firms:
+
+Identify their strengths and weaknesses.
+
+Monitor important performance indicators.
+
+Compare their performance with competitors.
+
+Understand their past, present and future financial condition.
+
+2. What are Financial Statements?
+
+Financial statements are written records that communicate a company's business activities and financial performance.
+
+The notes identify these types:
+
+A. Balance Sheet
+
+An annual financial record that provides information about the company's financial position.
+
+B. Income Statement
+
+Shows sources of income, such as sales and interest.
+
+C. Cash Flow Statement
+
+Provides information about the liquidity position of the company.
+
+D. Statement of Retained Earnings
+
+A statement relating to the retained earnings of the company.
+
+3. What is Ratio Analysis?
+
+Ratio analysis evaluates a firm's performance by examining relationships between different financial figures.
+
+It helps firms:
+
+Study operational efficiency.
+
+Study operational risk.
+
+Compare performance with past periods.
+
+Compare performance with other firms.
+
+Evaluate current performance.
+
+4. What are the limitations of Ratio Analysis?
+
+Different accounting practices: Accounting practices may differ between firms, making comparisons difficult.
+
+Seasonality: A particular quarter may show unusually high performance because of festivals or seasonal demand.
+
+Therefore, quarterly ratios may need to be compared with annual performance to obtain a more meaningful interpretation.
+
+5. What is the Quick Ratio?
+
+Formula:
+
+[
+Quick\ Ratio=\frac{Current\ Assets-Stock\ Inventory}{Current\ Liabilities}
+]
+
+The notes provide these interpretations:
+
+1:1 is described as an ideal ratio.
+
+3:1 is described as healthy and indicates substantial current assets compared with liabilities.
+
+0.5:1 is described as unhealthy and may put pressure on the firm.
+
+6. What is the Current Ratio?
+
+Formula:
+
+[
+Current\ Ratio=\frac{Current\ Assets}{Current\ Liabilities}
+]
+
+The notes describe 1.5:1 as the ideal ratio.
+
+A very high or very low current ratio may be problematic.
+
+Too high: May mean too many current assets are tied up in unproductive assets.
+
+Too low: May indicate that the firm is at risk of being unable to meet its payments.
+
+Examples:
+
+5:1 means ₹5 in assets is available to cover every ₹1 of liabilities.
+
+0.75:1 means ₹0.75 in assets is available to cover every ₹1 of liabilities.
+
+7. What is Earnings Per Share (EPS)?
+
+Formula:
+
+[
+EPS=\frac{Profit\ After\ Tax}{Number\ of\ Shares}
+]
+
+EPS provides a signal or indication for potential investors.
+
+It helps investors decide whether to invest in a particular firm or stock.
+
+8. What is the Price-Earnings Ratio?
+
+Formula:
+
+[
+P/E\ Ratio=\frac{Market\ Price}{Earnings\ Per\ Share}
+]
+
+The notes state that higher is better.
+
+9. What is the EBITDA Ratio?
+
+EBITDA means Earnings Before Interest, Taxes, Depreciation and Amortization in common financial terminology. The uploaded notes use the wording “Earnings before interest, taxes, and amortization.”
+
+The notes give the formula:
+
+[
+EBITDA\ Ratio=\frac{Enterprise\ Value}{EBITDA}
+]
+
+It measures the operational performance of the company.
+
+The notes state that higher is better for the company.
+
+10. What is the Dividend Ratio?
+
+The dividend ratio gives an indication of the return on investment relative to the share price.
+
+Formula:
+
+[
+Dividend\ Ratio=
+\frac{Ordinary\ Share\ Dividend}{Market\ Price}\times100
+]
+
+11. What is the Gearing Ratio?
+
+Formula:
+
+[
+Gearing\ Ratio=
+\frac{Long\ Term\ Loans}{Capital\ Employed}\times100
+]
+
+It provides an idea of how much of the capital employed comes from long-term loans.
+
+12. What are Gross Profit and Net Profit?
+
+Gross Profit:
+
+[
+Gross\ Profit=Total\ Revenue-Variable\ Cost
+]
+
+Net Profit:
+
+[
+Net\ Profit=Total\ Revenue-(Variable\ Cost+Fixed\ Cost)
+]
+
+13. What are Gross Profit Margin and Net Profit Margin?
+
+Gross Profit Margin:
+
+[
+Gross\ Profit\ Margin=
+\frac{Gross\ Profit}{Total\ Revenue}\times100
+]
+
+Net Profit Margin:
+
+[
+Net\ Profit\ Margin=
+\frac{Net\ Profit}{Total\ Revenue}\times100
+]
+
+14. What is Return on Capital Employed (ROCE)?
+
+Capital employed tells us how much capital has been put to use in an investment.
+
+Formula:
+
+[
+ROCE=\frac{Profit}{Capital\ Employed}\times100
+]
+
+Example:
+
+A ROCE of 25% means that ₹1 of capital employed generates ₹0.25 in profit for the firm.
+
+ROCE can partly indicate how efficiently a firm uses its capital.
+
+15. What is the Asset Turnover Ratio?
+
+Formula:
+
+[
+Asset\ Turnover\ Ratio=
+\frac{Sales\ Turnover}{Assets\ Employed}
+]
+
+It indicates how much sales turnover is generated relative to the assets employed.
+
+16. What is the Stock Turnover Ratio?
+
+Stock piling up is a major problem in stock-intensive industries such as textiles and cement.
+
+Formula:
+
+[
+Stock\ Turnover\ Ratio=
+\frac{Cost\ of\ Goods\ Sold}{Stocks}
+]
+
+It is expressed as times per year.
+
+The ratio indicates how quickly a company's stock is turned over.
+
+The notes associate a low stock turnover ratio with poor customer satisfaction and a lack of interest in the goods.
+
+17. What are Debtor Days?
+
+Formula:
+
+[
+Debtor\ Days=
+\frac{Debtors}{Sales\ Turnover}\times365
+]
+
+Debtor days indicate how long a business takes to recover its debts.
+
+The notes state that shorter debtor days are better for the firm.
+
+18. What are the key financial insights from the UltraTech Cement example?
+
+The notes discuss UltraTech Cement as an example of a capital-intensive industry.
+
+Important observations:
+
+It is a capital-intensive industry.
+
+It is a low-profit-margin industry.
+
+Its PAT margin was 9.1% in FY 2020.
+
+During the COVID-affected quarters, from Q4 2020 to Q1 2021, revenue dropped significantly.
+
+However, PAT did not fall as much, indicating that the company managed its variable costs effectively.
+
+The notes also explain the distinction between investors:
+
+Equity investors: Purchase shares with the expectation of capital gains and/or dividends.
+
+Debt investors: Lend money to a firm or project sponsor with the expectation of receiving repayment and interest.
+
+Other observations in the notes:
+
+ROCE is an important metric for capital employed.
+
+The industry had a low ROCE of 8.8% for FY 2020.
+
+A ROCE of around 10% was described as not acceptable for an equity investor whose general expectation was 15%, but acceptable for a debt investor.
+
+The company had a high debt-to-equity ratio.
+
+It used cash mainly to retire debt.
+
+Its FY 2020 current ratio was 1.21.
+
+Debtor days were 19 days in FY 2020.
+
+The company had successfully reduced debtor days over time.
+
+This improved operating cash, which was used to repay debt.
