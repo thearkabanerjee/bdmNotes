@@ -1,0 +1,211 @@
+
+WEEK 4 — INDUSTRY ANALYSIS AND COMPETITIVE POSITIONING
+
+W4L1 — Industry Definition
+
+1. What is an Industry?
+
+An industry is a collection of firms that are involved in related business activities.
+
+Example: The cement industry includes firms such as UltraTech, ACC and Maha.
+
+Industry-wise analysis provides broad economic insights and projections. These insights help firms and investors make future investment decisions.
+
+2. What are the methods of classification of industries?
+
+The lecture discusses broad classifications of industries.
+
+The uploaded notes refer to a classification diagram, but the detailed categories in that diagram are not available as readable text in the document extraction. I have therefore not invented a list of categories.
+
+3. What is a Multinational Company (MNC)?
+
+According to the uploaded notes, a company with more than 10% equity and operations in more than one country is called an MNC.
+
+4. What is the Missing Middle?
+
+The Missing Middle is a phenomenon described in the notes as being particularly relevant to India and commonly found in manufacturing.
+
+It refers to the situation in which medium-sized industries are very few compared with small and large industries.
+
+In other words, there is a gap in the medium-sized segment of the industry.
+
+W4L2 — Data Used for Classification: NIC, IIP and PMI
+
+1. What are National Industrial Classification (NIC) Codes?
+
+NIC is a standard used to make industrial data comparable across countries.
+
+Important characteristics:
+
+Classification is based on the final product produced.
+
+Codes are digit-based.
+
+Different digits represent different sectors.
+
+The last revision mentioned in the notes was in 2008.
+
+2. What are the various sources of industrial data?
+
+A. Annual Survey of Industries (ASI)
+
+ASI is an annual industrial survey released by the Government of India.
+
+The notes state that it had become infrequent, with the last survey mentioned being in 2018.
+
+The survey is conducted by the Chief Inspector of Factories (CIF) at the factory level.
+
+B. Index of Industrial Production (IIP)
+
+IIP is a quantity index based on physical production.
+
+It provides monthly industrial data and is released through the CSO website under the Government of India.
+
+C. Purchasing Managers' Index (PMI)
+
+PMI provides a broad picture of industrial sentiment.
+
+It provides monthly reports indicating current and near-future industrial conditions.
+
+W4L3 — Industry Market Structure and Concentration Indices
+
+1. What is a Concentration Ratio?
+
+A concentration ratio is a percentage metric used to examine how much of an industry's output is controlled by its largest firms.
+
+The notes explain that it commonly examines the largest four firms.
+
+The measure may use:
+
+Sales.
+
+Value added.
+
+Another output-related metric.
+
+The notes refer to this as a concentration ratio of four, although other numbers such as three or five may also be used.
+
+2. How are markets classified using concentration?
+
+The notes identify four broad market structures:
+
+Perfect competition.
+
+Monopolistic competition.
+
+Oligopoly.
+
+Monopoly.
+
+Examples discussed in the notes:
+
+Telecommunications and cement: Oligopoly.
+
+DBS Diamonds: Monopoly.
+
+Papad industry and retail bakeries: Close to perfect competition or monopolistic competition.
+
+3. What is the difference between fragmented and concentrated markets?
+
+Fragmented markets:
+
+Highly competitive.
+
+Easy to enter.
+
+Difficult to survive.
+
+Concentrated markets:
+
+Often associated with oligopoly.
+
+Difficult to enter.
+
+If a firm manages to enter and survive, it may find it easier to continue operating.
+
+4. What is the Herfindahl Index?
+
+The Herfindahl Index is used to measure industry concentration.
+
+The notes explain that the concentration ratio only examines the largest four firms. To overcome this limitation, the Herfindahl Index can be used.
+
+5. How is the Herfindahl Index calculated?
+
+The notes provide four steps:
+
+Step 1: Determine the percentage output produced by each of the largest four firms.
+
+Step 2: Square each firm's share.
+
+Step 3: Add all the squared shares.
+
+Step 4: Interpret the result using the Herfindahl Index spectrum.
+
+In short:
+
+[
+H=\sum s_i^2
+]
+
+Where (s_i) represents each firm's market share expressed as a percentage, following the percentage-share approach described in the notes.
+
+The notes also include diagrams illustrating limitations of the concentration ratio and the Herfindahl Index spectrum. The detailed numerical spectrum in those diagrams is not reproduced here because it is not available as readable text.
+
+W4L4 — Competitive Positioning in an Industry: Porter's Five Forces
+
+1. What are Porter's Five Forces?
+
+Porter's Five Forces are part of competitive analysis.
+
+Competitive analysis is important because it helps firms understand their position relative to competitors.
+
+It can help firms determine:
+
+Unique Selling Points (USPs).
+
+Competitive strategies.
+
+Business processes.
+
+How to create an advantage over other companies.
+
+The uploaded notes refer to an overview diagram of Porter's Five Forces and an example from the sporting industry in the USA. The detailed labels in the diagram are not reproduced in the text extraction.
+
+2. What are the limitations of Porter's Five Forces?
+
+The notes identify the following limitations. Porter's Five Forces does not take into account:
+
+IT and digitalisation.
+
+Globalisation.
+
+Economic instability.
+
+Changes in customer expectations.
+
+Environmental changes.
+
+Organisational reinvention.
+
+3. What are some common sources for researching data?
+
+The notes list the following sources:
+
+CARE Ratings.
+
+Company filings.
+
+ICICI Direct Research.
+
+UN Comtrade.
+
+Wazir Analysis.
+
+Televisory's Analysis.
+
+NITI Aayog.
+
+Goldman Sachs Global.
+
+Gartner.
+
