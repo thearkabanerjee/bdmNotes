@@ -1,0 +1,217 @@
+QUICK FORMULA REVISION SHEET
+
+Week 2 — Utility, Elasticity, Production and Revenue
+
+Marginal Utility
+
+[
+MU=\frac{\Delta TU}{\Delta Q}
+]
+
+Price Elasticity of Demand
+
+[
+PED=\left|\frac{%\Delta Q_d}{%\Delta P}\right|
+]
+
+Income Elasticity of Demand
+
+[
+IEOD=\frac{%\Delta Q_d}{%\Delta Income}
+]
+
+Price Elasticity of Supply
+
+[
+PEOS=\frac{%\Delta Q_s}{%\Delta P}
+]
+
+Equilibrium
+
+[
+Q_d=Q_s
+]
+
+Shortage
+
+[
+Shortage=Q_d-Q_s
+]
+
+Surplus
+
+[
+Surplus=Q_s-Q_d
+]
+
+Marginal Product
+
+[
+MP=\frac{\Delta Q}{\Delta X}
+]
+
+Average Product
+
+[
+AP=\frac{Q}{X}
+]
+
+Production Function
+
+[
+Q=f(x_1,x_2,\ldots,x_n)
+]
+
+Cobb-Douglas Production Function
+
+[
+Q=aL^bK^c
+]
+
+Total Revenue
+
+[
+TR=P\times Q
+]
+
+Average Revenue
+
+[
+AR=\frac{TR}{Q}
+]
+
+Marginal Revenue
+
+[
+MR=\frac{\Delta TR}{\Delta Q}
+]
+
+Week 3 — Pricing and Financial Ratios
+
+Cost Price and Selling Price
+
+[
+SP=CP+MU
+]
+
+Cost Price
+
+[
+CP=FC+VC
+]
+
+Contribution
+
+[
+Contribution=SP-VC
+]
+
+Mark-up
+
+[
+Markup=\frac{Profit}{Cost}\times100
+]
+
+Marginal Cost
+
+[
+MC=\frac{\Delta Total\ Cost}{\Delta Output}
+]
+
+Quick Ratio
+
+[
+Quick\ Ratio=\frac{Current\ Assets-Stock\ Inventory}{Current\ Liabilities}
+]
+
+Current Ratio
+
+[
+Current\ Ratio=\frac{Current\ Assets}{Current\ Liabilities}
+]
+
+Earnings Per Share
+
+[
+EPS=\frac{Profit\ After\ Tax}{Number\ of\ Shares}
+]
+
+Price-Earnings Ratio
+
+[
+P/E=\frac{Market\ Price}{EPS}
+]
+
+EBITDA Ratio
+
+[
+EBITDA\ Ratio=\frac{Enterprise\ Value}{EBITDA}
+]
+
+Dividend Ratio
+
+[
+Dividend\ Ratio=\frac{Ordinary\ Share\ Dividend}{Market\ Price}\times100
+]
+
+Gearing Ratio
+
+[
+Gearing\ Ratio=\frac{Long\ Term\ Loans}{Capital\ Employed}\times100
+]
+
+Gross Profit
+
+[
+Gross\ Profit=TR-VC
+]
+
+Net Profit
+
+[
+Net\ Profit=TR-(VC+FC)
+]
+
+Gross Profit Margin
+
+[
+GPM=\frac{Gross\ Profit}{TR}\times100
+]
+
+Net Profit Margin
+
+[
+NPM=\frac{Net\ Profit}{TR}\times100
+]
+
+Return on Capital Employed
+
+[
+ROCE=\frac{Profit}{Capital\ Employed}\times100
+]
+
+Asset Turnover Ratio
+
+[
+Asset\ Turnover=\frac{Sales\ Turnover}{Assets\ Employed}
+]
+
+Stock Turnover Ratio
+
+[
+Stock\ Turnover=\frac{Cost\ of\ Goods\ Sold}{Stocks}
+]
+
+Debtor Days
+
+[
+Debtor\ Days=\frac{Debtors}{Sales\ Turnover}\times365
+]
+
+Week 4 — Industry Analysis
+
+Herfindahl Index
+
+[
+H=\sum s_i^2
+]
