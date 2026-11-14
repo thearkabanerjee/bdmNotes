@@ -1,0 +1,934 @@
+WEEK 2 — CONSUMER BEHAVIOUR, DEMAND, SUPPLY AND PRODUCTION
+
+W2L1 — Utility: Cardinal vs. Ordinal and Indifference Curves
+1. Why is consumer behaviour important?
+
+Consumer behaviour involves consumption decisions that determine overall demand.
+
+The notes discuss two approaches to understanding utility:
+
+Cardinal approach.
+
+Ordinal approach.
+
+2. What is the cardinal approach?
+
+The cardinal approach is a quantitative approach in which numerical values are assigned to utility.
+
+Example: A person derives 100 utils from drinking a cup of coffee.
+
+The notation used for two commodities X and Y is:
+
+[
+U_X=f(X)
+]
+
+[
+U_Y=f(Y)
+]
+
+Here:
+
+(U_X) = utility derived from commodity X.
+
+(U_Y) = utility derived from commodity Y.
+
+(P_X) = price of commodity X.
+
+(P_Y) = price of commodity Y.
+
+3. What is the ordinal approach?
+
+The ordinal approach is a qualitative approach in which consumer preferences are ranked rather than assigned numerical utility values.
+
+For example, a consumer may prefer commodity X over commodity Y without assigning exact numerical values to their satisfaction.
+
+4. What is utility and what is its measurement unit?
+
+Utility is the level of satisfaction derived from consuming a good or service.
+
+The measurement unit of utility is called a util.
+
+5. What is Total Utility (TU)?
+
+Total Utility is the overall satisfaction derived from consuming a commodity.
+
+6. What is Marginal Utility (MU)?
+
+Marginal Utility is the additional satisfaction an individual derives from consuming an additional unit of a good or service.
+
+Formula:
+
+[
+MU=\frac{\Delta TU}{\Delta Q}
+]
+
+Where:
+
+MU = Marginal Utility.
+
+ΔTU = Change in Total Utility.
+
+ΔQ = Change in Quantity consumed.
+
+7. What is the Law of Diminishing Marginal Utility?
+
+The law states that as more and more quantities of a commodity are consumed, the additional satisfaction obtained from each additional unit becomes smaller.
+
+In other words, marginal utility decreases as consumption increases, under the situation described in the notes.
+
+8. What is the relationship between Total Utility and Marginal Utility?
+
+The relationship is:
+
+Total Utility
+
+Marginal Utility
+
+TU is increasing
+
+MU is positive
+
+TU is maximum
+
+MU is zero
+
+TU is decreasing
+
+MU is negative
+
+Total Utility increases with quantity up to a certain point. It reaches a maximum and may decrease with further consumption.
+
+9. What constraints do consumers face?
+
+Consumers face two important constraints:
+
+Limited income.
+
+The price of goods and services.
+
+Consumers try to maximise utility based on their available income and the prices of commodities.
+
+10. What is an indifference curve?
+
+An Indifference Curve (IC) represents combinations of commodities that provide the same level of satisfaction to a consumer.
+
+Example: A consumer may receive the same satisfaction from one idli and two vadas as from two idlis and one vada.
+
+These combinations can be represented on an indifference curve.
+
+11. What do higher and lower indifference curves represent?
+
+A higher indifference curve represents a higher level of satisfaction.
+
+A lower indifference curve represents a lower level of satisfaction.
+
+The notes illustrate a current indifference curve, a lower indifference curve and a higher indifference curve.
+
+12. What are the important properties of indifference curves?
+
+Property 1: Downward sloping
+
+An indifference curve slopes downward. If the quantity of one commodity increases, the quantity of the other commodity in the combination must decrease to maintain the same satisfaction level.
+
+Property 2: Indifference curves do not intersect
+
+Each indifference curve represents a different level of satisfaction. Therefore, the curves do not intersect.
+
+Property 3: Higher curves represent greater satisfaction
+
+The farther an indifference curve is from the origin, the greater the satisfaction represented by it.
+
+A rational consumer aims to move towards a higher indifference curve.
+
+W2L2 — Demand and Supply Curves
+
+1. What is a market?
+
+A market is a group of buyers and sellers of a particular good or service.
+
+Buyers determine the demand for a product.
+
+Sellers determine the supply of a good or service.
+
+2. What is demand?
+
+Demand is the outcome when an individual or group of people is both willing and able to purchase a good or service.
+
+Remember: willingness alone is not enough. The consumer must also be able to purchase the product.
+
+3. What is the Law of Demand?
+
+The Law of Demand states that when the price of a commodity increases, its quantity demanded decreases. When its price decreases, its quantity demanded increases, assuming all other things remain equal.
+
+4. What is a demand curve?
+
+A demand curve is a graphical representation of demand in terms of price and quantity.
+
+5. What is a market demand curve?
+
+A market demand curve is the sum of the demand curves of all individuals in the market.
+
+6. What are left and right shifts of the demand curve?
+
+A demand curve can shift left or right depending on changes in quantity demanded at every price.
+
+Rightward shift: Increase in demand.
+
+Leftward shift: Decrease in demand.
+
+Example: During summer, consumers may be willing to buy more ice cream at the same price. This represents an increase in demand and a rightward shift.
+
+During winter, consumers may be willing to buy less ice cream at the same price. This represents a decrease in demand and a leftward shift.
+
+7. What are the five factors that affect the demand curve?
+
+The notes identify five factors:
+
+Income.
+
+Price of related goods.
+
+Tastes.
+
+Expectations about the future.
+
+Number of buyers.
+
+8. What is the relationship between demand and future expectations?
+
+If individuals expect their incomes to increase in the future, demand may increase.
+
+If individuals expect the price of a commodity to increase in the future, they may purchase more of it now, increasing current demand.
+
+9. What are normal goods?
+
+Normal goods are goods whose demand increases when individuals' income increases.
+
+Examples from the notes:
+
+Branded clothing.
+
+Sports bikes.
+
+Dishwashers.
+
+10. What are inferior goods?
+
+Inferior goods are goods whose demand decreases when individuals' income increases.
+
+Examples from the notes:
+
+Bus travel.
+
+Bicycles.
+
+Supermarket own-brand products.
+
+11. What are substitutes?
+
+Substitutes are pairs of goods where an increase in demand for one good leads to a decrease in demand for the other.
+
+Examples:
+
+Soap and body wash.
+
+Train tickets and plane tickets.
+
+Gel pens and ball pens.
+
+LPG and induction stoves.
+
+12. What are complements?
+
+Complements are pairs of goods where an increase in demand for one good leads to an increase in demand for the other.
+
+Examples:
+
+Pencil and eraser.
+
+Tennis racket and tennis ball.
+
+Cereal and milk.
+
+Electricity and electronic devices.
+
+13. What is market equilibrium?
+
+Market equilibrium is a situation in which demand and supply are balanced.
+
+At a given price level, the quantity demanded equals the quantity supplied.
+
+Graphically, market equilibrium is represented by the intersection of the demand curve and the supply curve.
+
+[
+Q_d=Q_s
+]
+
+14. What are equilibrium price and equilibrium quantity?
+
+Equilibrium price: The price at which quantity demanded equals quantity supplied. It is also called the market-clearing price.
+
+Equilibrium quantity: The quantity demanded and supplied at the equilibrium price.
+
+15. What is a surplus?
+
+A surplus occurs when quantity supplied is greater than quantity demanded.
+
+[
+Surplus=Q_s-Q_d
+]
+
+This is excess supply.
+
+A surplus usually creates downward pressure on price. Sellers may reduce prices to bring supply and demand back towards equilibrium.
+
+16. What is a shortage?
+
+A shortage occurs when quantity demanded is greater than quantity supplied.
+
+[
+Shortage=Q_d-Q_s
+]
+
+This is excess demand.
+
+A shortage usually creates upward pressure on price.
+
+17. What is the Law of Supply and Demand?
+
+The price of a good adjusts to balance the quantity supplied and the quantity demanded.
+
+In most markets, shortages and surpluses are temporary because prices adjust towards equilibrium.
+
+W2L3 — Changes in Demand and Elasticity
+
+1. What is elasticity of demand?
+
+Demand depends on different factors and changes when those factors change.
+
+Elasticity helps us understand how much demand responds to a change in a particular factor.
+
+The notes classify elasticity broadly into:
+
+Price elasticity.
+
+Income elasticity.
+
+Cross-price elasticity.
+
+2. What is Price Elasticity of Demand (PEOD/PED)?
+
+Price Elasticity of Demand measures how much quantity demanded responds to a change in the price of a good.
+
+Formula:
+
+[
+PED=\left|\frac{%\text{ change in quantity demanded}}{%\text{ change in price}}\right|
+]
+
+The absolute value means the result is expressed as a positive magnitude.
+
+Example: If the price increases by 10%, PED measures how much the percentage quantity demanded changes in response.
+
+3. What is elastic demand?
+
+Elastic demand occurs when quantity demanded responds substantially to a change in price.
+
+Example from the notes: Chocolate. If chocolate prices increase, consumers may stop buying it and switch to alternatives such as cookies.
+
+4. What is inelastic demand?
+
+Inelastic demand occurs when quantity demanded responds only slightly to a change in price.
+
+Examples given in the notes:
+
+Necessities.
+
+Prescription medicines.
+
+Tobacco.
+
+Alcohol.
+
+The notes explain that consumption of such products may remain relatively unaffected by price increases.
+
+5. What are the determinants of price elasticity of demand?
+
+The notes identify:
+
+Availability of close substitutes.
+
+Whether the good is a necessity or a luxury.
+
+Goods with close substitutes tend to have more elastic demand.
+
+6. Why are goods with close substitutes more elastic?
+
+Consider Pepsi and Coca-Cola.
+
+Suppose Pepsi and Coca-Cola have the same price, but Pepsi increases its price by 10%.
+
+Consumers may stop buying Pepsi and switch to Coca-Cola.
+
+Since consumers have a close substitute available, the quantity demanded of Pepsi can respond substantially to its price increase.
+
+Therefore, goods with close substitutes tend to have elastic demand.
+
+7. What are the different types of demand curves?
+
+Type of demand
+
+Elasticity value
+
+Meaning
+
+Elastic demand
+
+PED > 1
+
+Quantity demanded responds more than proportionately
+
+Inelastic demand
+
+PED < 1
+
+Quantity demanded responds less than proportionately
+
+Unit elastic demand
+
+PED = 1
+
+Quantity demanded responds proportionately
+
+Perfectly elastic demand
+
+PED = Infinity
+
+Horizontal demand curve
+
+Perfectly inelastic demand
+
+PED = 0
+
+Vertical demand curve
+
+8. What is Income Elasticity of Demand (IEOD)?
+
+Income Elasticity of Demand measures how much quantity demanded responds to a change in consumer income.
+
+Formula:
+
+[
+IEOD=\frac{%\text{ change in quantity demanded}}{%\text{ change in income}}
+]
+
+Unlike price elasticity, income elasticity can be positive or negative.
+
+IEOD
+
+Classification
+
+IEOD > 0
+
+Normal goods
+
+IEOD < 0
+
+Inferior goods
+
+The notes also explain:
+
+Necessities tend to have smaller income elasticities.
+
+Luxuries tend to have larger income elasticities.
+
+9. What is Cross-Price Elasticity of Demand?
+
+Cross-price elasticity measures how the quantity demanded of one good responds when the price of another good changes.
+
+The notes give the formula in the following wording:
+
+\frac{%\text{ change in quantity demanded of first good}}
+{%\text{ change in quantity demanded of second good}}
+]
+
+The notes classify goods using the sign of cross-price elasticity:
+
+Substitutes: Positive cross-price elasticity.
+
+Complements: Negative cross-price elasticity.
+
+Note: The formula above reproduces the wording in the uploaded notes. The notes' accompanying explanation describes the relationship in terms of a price change in one good and quantity demanded of another.
+
+10. What is Elasticity of Supply?
+
+Elasticity of supply measures how much quantity supplied responds to a change in price.
+
+Elastic supply: Quantity supplied responds substantially to a price change.
+
+Inelastic supply: Quantity supplied responds only slightly to a price change.
+
+11. What determines price elasticity of supply?
+
+The notes identify the time period as a determinant.
+
+In a longer time horizon, producers may have more flexibility to increase supply.
+
+In a shorter time horizon, supply may be constrained by the available time.
+
+12. What is Price Elasticity of Supply (PEOS)?
+
+Formula:
+
+[
+PEOS=\frac{%\text{ change in quantity supplied}}{%\text{ change in price}}
+]
+
+The notes state that price elasticity of supply is always positive because the supply curve slopes upward.
+
+Type of supply
+
+Elasticity value
+
+Elastic supply
+
+PEOS > 1
+
+Inelastic supply
+
+PEOS < 1
+
+Unit elastic supply
+
+PEOS = 1
+
+13. What is the Income Effect?
+
+The income effect is the change in a consumer's real purchasing power brought about by a change in the price of a commodity.
+
+Example: A consumer earns ₹15,000 per month and buys meat. If the price of meat decreases, the consumer's purchasing power increases. The consumer can now afford more with the same ₹15,000 income.
+
+14. What is the Substitution Effect?
+
+The substitution effect is the incentive to increase consumption of a good whose price falls when its substitute becomes relatively more expensive.
+
+Example: A consumer buys Pepsi instead of Coca-Cola because Pepsi reduces its price. Coca-Cola becomes relatively more expensive, so the consumer switches to Pepsi.
+
+W2L4 — Production Cost
+
+1. Who are the two broad agents of the market?
+
+Consumer: Demands goods and services through consumption.
+
+Producer: Supplies goods and services through production.
+
+2. What are the objectives of a consumer and a producer?
+
+Consumer: Maximise utility.
+
+Producer or firm: Maximise profits.
+
+3. What is one of the most important variables affecting supply?
+
+The cost of production is an important factor affecting supply.
+
+4. Why is understanding cost important for supply decisions?
+
+Once a firm understands the cost of producing a commodity, it can make important supply decisions.
+
+These include:
+
+What goods to produce.
+
+How much to produce.
+
+Which customer segment to target.
+
+Whether production is economically viable.
+
+5. What is Historical Cost?
+
+Historical cost is the actual cost incurred when purchasing an asset.
+
+Examples:
+
+The cost of land purchased in 2021.
+
+The cost of machinery when a plant was initially established.
+
+6. What is Replacement Cost?
+
+Replacement cost is the price required to replace an asset at current market prices.
+
+Example: A firm purchased machinery when setting up a plant. If it needs to replace the machinery today, the replacement cost may be different from the original purchase price.
+
+7. What is a Depreciation Reserve?
+
+A depreciation reserve is an amount set aside over time to help replace an asset in the future.
+
+Example from the notes:
+
+A firm buys machinery for ₹5 crore. After 15 years, it needs replacement, and the same machinery now costs ₹15 crore.
+
+The firm may set aside ₹1 crore every year in a depreciation reserve. After 15 years, it can use this reserve to purchase new machinery without placing the entire burden on the firm at that time.
+
+8. What is Fixed Cost?
+
+Fixed costs are costs that are unaffected by the company's production output or sales.
+
+Examples:
+
+Interest payable to a bank.
+
+Rent payable.
+
+These costs remain independent of whether the firm's sales increase or decrease, according to the examples in the notes.
+
+9. What is Variable Cost?
+
+Variable costs are costs that increase or decrease with production volume.
+
+Examples include costs associated with producing or transporting additional units.
+
+10. What is Real Cost?
+
+Real cost accounts for the physical quantities of different non-monetary factors involved in production.
+
+Examples from the notes:
+
+Number of nails.
+
+Cubic feet of material.
+
+11. What is Prime Cost?
+
+Prime cost is the direct cost incurred in terms of materials and labour involved in production, excluding fixed cost.
+
+Prime costs help determine the selling cost of a commodity so that the firm can earn a profit.
+
+W2L5 — Cost Curves
+
+1. What is the pizza factory example?
+
+The lecture discusses a pizza factory example.
+
+The notes mention:
+
+Machinery and shed together represent an initial investment of €30, treated as fixed cost in the example.
+
+The factory has a production capacity of 200 pizzas per hour.
+
+One worker is hired at a cost of €10.
+
+The worker produces 50 pizzas per hour.
+
+The marginal product of labour is 50.
+
+The example is used to understand production and cost relationships.
+
+2. Why is the relationship between marginal and average cost curves important?
+
+The quantity of output is determined by the producer.
+
+A producer must identify a range of output where production is cost-efficient.
+
+The notes identify the region around the intersection of the Marginal Cost Curve and Total Cost Curve as important for the firm's production decision.
+
+3. What is a reasonable expansion path of a firm?
+
+A firm may expand its production capacity in stages as demand increases.
+
+For example:
+
+Small factory → Medium factory → Large factory.
+
+The firm expands as demand grows.
+
+4. What are Economies of Scale?
+
+Economies of scale are part of the Long Run Total Average Cost Curve.
+
+As production output increases, Average Total Cost (ATC) decreases.
+
+Reasons may include:
+
+Bulk purchases.
+
+Cost advantages.
+
+Technological innovation.
+
+5. What are Constant Returns to Scale?
+
+Constant returns to scale are the region of the Long Run Average Total Cost curve where output and average cost move in a one-to-one relationship, as described in the notes.
+
+The notes state that many firms operate in this region.
+
+6. What are Diseconomies of Scale?
+
+Diseconomies of scale occur when an increase in production output leads to a more-than-proportionate increase in average total cost.
+
+Example from the notes:
+
+A 2% increase in output may result in a 6% increase in total costs.
+
+W2L6 — Make vs. Buy
+
+1. What is a Make-or-Buy Decision?
+
+A make-or-buy decision occurs when a firm decides whether to:
+
+Produce something internally by investing in additional capital.
+
+Purchase it from an external source or outsource the work.
+
+Buying or outsourcing may help the firm avoid investing in additional capital.
+
+Sunk cost is also an important factor in this decision.
+
+2. What is Sunk Cost?
+
+A sunk cost is a cost that has already been incurred and cannot be recovered.
+
+Example from the notes:
+
+A firm enters into an agreement with a marketing agency and pays the fee upfront. If the marketing activity does not produce results, the upfront fee has already been spent and becomes a sunk cost.
+
+3. What is an example of a Make-or-Buy Decision?
+
+The notes give the example of Bata.
+
+Bata decided to outsource footwear production to several local firms rather than manufacture everything itself.
+
+Bata provides specifications and quantities, the local firms manufacture the footwear, and Bata brands the footwear with its logo before selling it to customers.
+
+In this example, Bata chooses buy rather than make.
+
+4. What is the notion of a firm having control over price and quantity?
+
+A firm may have control over:
+
+The price it fixes for a commodity.
+
+The quantity it produces.
+
+Both price and quantity.
+
+According to the notes:
+
+Monopoly market: A firm can control both price and quantity.
+
+Competitive markets: A firm can control only quantity.
+
+W2L7 — Production Decisions
+
+1. What are the two main factors concerning production decisions?
+
+Production decisions are closely connected to:
+
+Price.
+
+Quantity.
+
+Pricing is a function of cost and the quantity produced.
+
+2. What is a Production Function?
+
+A production function gives the maximum level of output that can be produced using different inputs.
+
+It represents the relationship between inputs used in production and the maximum output produced during a given period with a given level of technology.
+
+Formula:
+
+[
+Q=f(x_1,x_2,\ldots,x_n)
+]
+
+Where:
+
+Q = Maximum output.
+
+(x_1,x_2,\ldots,x_n) = Inputs used in production.
+
+3. What are the general inputs for a typical industry?
+
+The notes use the acronym KLEM:
+
+K = Capital.
+
+L = Labour.
+
+E = Energy.
+
+M = Material.
+
+4. What is a Short-Run Production Function?
+
+Consider a production function with two inputs:
+
+[
+Q=f(X,Y)
+]
+
+Where:
+
+Q = Output.
+
+X = Labour.
+
+Y = Capital.
+
+A short-run production function provides the maximum output for given inputs when at least one production input remains unchanged.
+
+Usually, capital remains unchanged in the short run.
+
+It helps a firm understand its short-term production goals.
+
+5. What is a Long-Run Production Function?
+
+A long-run production function allows the firm to vary all production inputs.
+
+The firm is not restricted to keeping one input fixed.
+
+6. What are the three important terms in short-run production analysis?
+
+A. Total Product (TP)
+
+Total quantity of output produced.
+
+B. Marginal Product (MP)
+
+The change in output resulting from a change in a variable input.
+
+[
+MP=\frac{\Delta Q}{\Delta X}
+]
+
+C. Average Product (AP)
+
+Output produced on average per unit of the variable input.
+
+[
+AP_X=\frac{Q}{X}
+]
+
+7. How does a firm decide whether to hire an additional worker?
+
+Marginal Product helps estimate the additional output resulting from hiring an additional worker.
+
+Average Product helps determine the average output per worker.
+
+The notes give the following relationships:
+
+Relationship
+
+Effect on AP
+
+MP > AP
+
+AP is rising
+
+MP < AP
+
+AP is falling
+
+MP = AP
+
+AP is maximised
+
+The notes state that MP = AP is the point after which the firm should stop hiring.
+
+A firm uses production data, including MP, TP and AP, to decide how much to produce and when to stop hiring.
+
+8. What are the three stages of short-run production analysis?
+
+The notes identify three stages:
+
+Stage I: MP = AP.
+
+Stage II: MP = 0.
+
+Stage III: Beyond MP = 0.
+
+The notes state that firms prefer to operate in Stage I or Stage II. If they enter Stage III, they need to make decisions to return to Stage I or Stage II.
+
+9. What are IRTS, CRTS and DRTS?
+
+These terms relate to long-run production functions.
+
+They help a firm decide whether to establish a new plant in a new location or continue increasing production at its existing plant.
+
+The notes refer to:
+
+IRTS: Increasing Returns to Scale.
+
+CRTS: Constant Returns to Scale.
+
+DRTS: Decreasing Returns to Scale.
+
+10. What is the Cobb-Douglas Production Function?
+
+The notes describe it as a two-input exponential production function involving capital and labour.
+
+Formula:
+
+[
+Q=aL^bK^c
+]
+
+Where:
+
+Q = Output.
+
+L = Labour.
+
+K = Capital.
+
+a, b and c = Parameters.
+
+The notes provide these conditions:
+
+If b + c > 1: IRTS.
+
+If b + c = 1: CRTS.
+
+If b + c is less than 1: DRTS.
+
+11. What is Capacity Planning?
+
+Capacity planning is important for capital-intensive firms.
+
+Capital-intensive firms have a major portion of their operating costs tied to investments in machinery, equipment and other capital assets.
+
+Example from the notes:
+
+A cement plant operating at only 30% of its production capacity may be an inefficient use of its large capital investment and could lead to losses.
+
+Good capacity planning requires:
+
+A reasonable forecast of demand.
+
+Effective and transparent communication between production and sales and marketing teams.
+
+12. What are Total Revenue, Average Revenue and Marginal Revenue?
+
+Total Revenue (TR)
+
+[
+TR=\text{Total Quantity Produced}\times\text{Price per Quantity}
+]
+
+Average Revenue (AR)
+
+[
+AR=\frac{TR}{\text{Total Quantity Produced}}
+]
+
+Marginal Revenue (MR)
+
+[
+MR=\frac{\Delta TR}{\Delta Q}
+]
+
+Marginal Revenue represents the additional revenue generated by producing and selling an additional quantity.
