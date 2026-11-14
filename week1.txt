@@ -1,0 +1,334 @@
+# WEEK 1 — INTRODUCTION TO ECONOMICS, CONSUMPTION AND SURVEY DATA
+
+## W1L2 — Micro & Macro Economics: The Role of Data
+
+### 1. What is an economic activity?
+
+Any activity that drives the economy is called an **economic activity**.
+
+There are five real-time economic activities that take place simultaneously in an economy:
+
+1. Consumption
+2. Production
+3. Exchange
+4. Distribution
+5. Investment
+
+These activities are interrelated. A change in one activity can eventually affect all the others.
+
+**Example:** During COVID, consumption of goods and services was blocked. This affected the exchange and flow of money, which in turn severely affected production.
+
+### 2. Who are the three groups of agents in an economy?
+
+**Producers:** Firms and enterprises.
+
+**Consumers:** Households.
+
+**Government:** The government acts as both a consumer and a producer.
+
+### 3. What are exchange and distribution?
+
+Exchange takes place when firms and enterprises sell goods and services to consumers in return for money or another resource.
+
+Distribution refers to how the resources involved in exchange are distributed. This distribution has implications for investment and production.
+
+Every exchange has an underlying distribution of resources.
+
+### 4. How are the five economic activities interrelated?
+
+Consumers consume goods and services. Producers produce those goods and services. Resources are exchanged between them, and the distribution of those resources determines investment. Investment, in turn, determines production capacity.
+
+Therefore:
+
+Consumption → Exchange → Distribution → Investment → Production capacity.
+
+### 5. What are Microeconomics and Macroeconomics?
+
+**Microeconomics** studies economic activities at the level of individuals, households and firms.
+
+Examples include:
+- Consumer purchasing decisions.
+- A firm's resource allocation.
+- A company's labour productivity.
+- The price and demand for a particular product.
+
+**Macroeconomics** studies economic activities at an aggregated level, such as the state, nation, global economy, industries and sectors.
+
+Examples include:
+- National consumption trends.
+- GDP.
+- Industry-level economic activity.
+- National income and expenditure.
+
+### 6. What is the role of data analysis at the micro and macro levels?
+
+At the **micro level**, firms collect data about important parameters such as resource allocation, energy consumption and labour productivity. A data analyst studies this data and provides insights that help firms make decisions, improve efficiency and allocate resources effectively.
+
+At the **macro level**, analysts study national-level data to understand the behaviour of economic activities, such as consumption trends. National Sample Survey data is one example of a source of consumption information released by the Central Statistics Office (CSO), as described in the notes.
+
+---
+
+## W1L3 — Production, Consumption and Exchange
+
+### 1. What is production and value addition?
+
+Production is the process of converting raw materials into usable goods.
+
+The usability or usefulness of a good gives it value. Therefore, production adds value as raw materials are converted into useful goods.
+
+**Example:** Raw materials are converted into a finished product that consumers can use.
+
+### 2. What is utility?
+
+Utility is the usefulness or satisfaction associated with a commodity.
+
+Utility is implicit in a commodity. A commodity without utility value would have no takers.
+
+### 3. How does a producer determine what and how much to produce?
+
+Producers require different kinds of data to make production decisions, including:
+
+- Price data.
+- Real-time data.
+- Continuous flow of data.
+- Resource data.
+
+Analysing these data helps producers answer questions such as:
+
+- Which products should be produced in the coming years?
+- Should the firm produce high-value, low-cost products?
+- Should it produce low-value, high-cost products?
+- How much should it produce?
+
+### 4. How is price a coordinating mechanism?
+
+Price coordinates buying and selling decisions in an economy.
+
+It also acts as a mechanism for determining value and influencing decisions made by buyers and sellers.
+
+### 5. What is consumption and satisfaction?
+
+Consumption means using or consuming a good or service.
+
+The basic unit of consumption is a consumer. A consumer consumes a good or service and derives satisfaction from it.
+
+There would be no reason for production if there were no consumption.
+
+A producer tries to maximise consumer satisfaction by studying consumption data and understanding consumer behaviour.
+
+### 6. What is consumption theory?
+
+Consumers have limited means, such as income, while their wants may be unlimited.
+
+Consumption theory is the formulation or generalisation of standard relationships that explain how consumers tend to behave.
+
+**Example:** As the price of a commodity increases, its demand tends to decrease.
+
+---
+
+## W1L4 — Consumption Baskets
+
+### 1. What is consumption?
+
+Consumption refers to the goods and services used by a household or an individual.
+
+For example, a household may consume vegetables, electricity, water, internet data and transportation services.
+
+### 2. What is a consumption basket?
+
+When household consumption is categorised over a particular period, such as a day, week or month, it is called a **consumption basket**.
+
+Examples of items in a household's monthly consumption basket include:
+
+- Transportation.
+- Ration and groceries.
+- Electricity.
+- Rent.
+- Water.
+- Other household expenses.
+
+### 3. Why are consumption baskets important?
+
+A household's monthly consumption basket provides useful information for assessing demand.
+
+If we study the monthly consumption baskets of several thousand households belonging to a particular income bracket, we can identify patterns in consumption.
+
+These patterns help us understand customer behaviour and demand.
+
+### 4. How does household income affect consumption patterns?
+
+Household income forms the upper limit on household spending. This is also referred to as the **household budget**.
+
+The lecture discusses households with monthly incomes of ₹15,000, ₹30,000 and ₹50,000 and compares their consumption patterns.
+
+The main idea is that different income levels can result in different consumption baskets.
+
+---
+
+## W1L5 — Survey Data
+
+### 1. What is sampling?
+
+Sampling is a technique of selecting individual members or a subset of a population to make statistical inferences about the entire population.
+
+Instead of surveying every individual, researchers select a representative sample.
+
+### 2. What is stratified sampling?
+
+Stratified sampling is a method in which the population is divided into different groups or strata, and sampling is modelled around those groups.
+
+Examples of strata include:
+
+- Income.
+- Region.
+- Occupation.
+
+The sample should represent the population appropriately.
+
+### 3. What is sample size?
+
+Sample size refers to the number of individuals or observations selected for a survey.
+
+The sampling data and sample size should be representative of the entire population.
+
+### 4. What are the two kinds of biases in consumption survey data?
+
+**A. Bias due to timing of the survey**
+
+If surveys are conducted at different times across different regions, the results may be affected by differences in timing.
+
+The notes explain that surveys should ideally be conducted across the country at the same time to avoid this kind of bias.
+
+**B. Recall bias**
+
+Recall bias occurs when participants are asked to remember their consumption history over a period, such as a week or a month.
+
+Participants may not accurately remember what they consumed, resulting in inaccurate survey information.
+
+### 5. What is high-frequency consumption data?
+
+High-frequency consumption data refers to data relating to a list of commodities that are consumed frequently or on a recurring basis.
+
+After the economic reforms of 1991, India experienced an increase in the choice of goods and services. This increased the unpredictability of consumption patterns.
+
+To address this, the Government of India introduced high-frequency consumption data relating to these goods and services.
+
+### 6. What consumer expenditure trends are discussed?
+
+The lecture discusses:
+
+- Composition of consumer expenditure during 1993–1994.
+- Composition of consumer expenditure during 1993–2011.
+- Rural and urban expenditure breakdown during 2011–2012.
+- The relationship between income and poverty.
+
+---
+
+## W1L6 — Utility and Prices: An Introduction
+
+### 1. What is utility and how does it affect consumer choice?
+
+Utility refers to the usefulness or satisfaction a consumer derives from a good or service.
+
+Consumers generally try to estimate the utility they will receive from a good or service before purchasing it.
+
+Utility is **subjective**. The same good may provide different levels of utility to different individuals.
+
+**Example:** One person may attach a high utility value to watching a movie on its first day and be willing to pay a premium price. Another person may attach a lower utility value to the same movie.
+
+Utility drives consumer choice.
+
+Every household has a limited income, which acts as an upper limit on its spending. This is called the **budget constraint**.
+
+A household must choose among available goods and services based on their utility and the household's priorities.
+
+### 2. How does price act as a rationing device?
+
+If a good or service were free, consumption could potentially become unlimited.
+
+Price plays an important role in limiting consumption. It acts as a rationing device by keeping the use of a good or service within the limits of available supply.
+
+---
+
+## W1L7 — Other Sources of Survey Data
+
+### 1. What are the limitations of large-scale national sample surveys?
+
+Large-scale sample surveys from official sources may have a limitation: data may not be available at regular intervals.
+
+This makes it difficult to continuously monitor changes in household behaviour.
+
+### 2. What are CMIE Consumer Pyramids Household Surveys?
+
+CMIE Consumer Pyramids is a product of the Centre for Monitoring Indian Economy Pvt. Ltd.
+
+It conducts waves of surveys on Indian households.
+
+The notes mention that the survey wave during September–December 2021 was the 26th wave and covered 236,000 people.
+
+### 3. What are the advantages of CMIE Consumer Pyramids surveys?
+
+The notes identify three advantages:
+
+1. It is a continuous type of survey, conducted in periodic waves.
+2. It has good coverage.
+3. The data obtained is longitudinal data.
+
+### 4. What is longitudinal data?
+
+Longitudinal data is data collected from the same households or individuals repeatedly over a period of time.
+
+**Example:** A survey conducted on the same household three times a year for several years produces information that can be studied over time.
+
+This helps researchers understand economic mobility, including:
+
+- Changes in consumption.
+- Diversification of consumption baskets.
+- Changes in income.
+- Changes in the types of goods consumed.
+- Which goods may have become inferior over time.
+
+### 5. What are the different types of data?
+
+**A. Time-series data**
+
+Data collected at different points in time. The observations are used to track changes over time.
+
+Example given in the notes: GDP.
+
+**B. Cross-sectional data**
+
+Data that provides a snapshot at a particular point in time.
+
+Example given in the notes: NSS data.
+
+**C. Panel data**
+
+Data pooled from both time-series and cross-sectional data.
+
+### 6. Why is market research obtained from consulting-firm surveys important?
+
+For a firm, surveys can act as:
+
+- Market intelligence.
+- Forecasting inputs.
+- Inputs for strategic decision-making.
+- Sources of demand information.
+
+Firms can study current trends and plan how to position themselves five or ten years into the future.
+
+They can use these insights to adjust their supply and meet future demand.
+
+### 7. Why is data visualisation important?
+
+Visualisation helps people understand information and identify patterns.
+
+Examples of charts mentioned in the notes include:
+
+- Bar graphs.
+- Stacked bar charts.
+- Scatter plots.
+- Pie charts.
+
+These visualisations are important for market research and decision-making.
+
